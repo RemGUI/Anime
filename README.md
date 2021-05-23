@@ -5,7 +5,11 @@ Voici l'image de l app
 
 ![alt text](https://cdn.discordapp.com/attachments/547748628001849345/846123194175062016/unknown.png)
 
+Liste d anime
+
 ![alt text](https://cdn.discordapp.com/attachments/547748628001849345/846123504864198706/unknown.png)
+
+Synopsis de l anime
 
 ![alt text](https://cdn.discordapp.com/attachments/547748628001849345/846123401432006656/unknown.png)
 
